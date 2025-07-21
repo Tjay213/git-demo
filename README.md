@@ -1,2 +1,3 @@
 # git-demo
-first git repository
+first git repository 
+author tejesh
